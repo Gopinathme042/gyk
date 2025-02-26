@@ -10,6 +10,8 @@ public class DobOne {
 		System.out.println("DobFour");
 		System.out.println("DobFive");
 		System.out.println("Switched to new branch two");
+		
+		System.out.println("DobSix");
 	}
 
 }
