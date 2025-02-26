@@ -6,6 +6,7 @@ public class DobOne {
 		// TODO Auto-generated method stub
 		System.out.println("DobOne");
 		System.out.println("DobTwo");
+		System.out.println("DobThree");
 	}
 
 }
